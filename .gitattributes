@@ -1,0 +1,1 @@
+src/main/resources/hermes/en/model/embedding.mode.gz filter=lfs diff=lfs merge=lfs -text
